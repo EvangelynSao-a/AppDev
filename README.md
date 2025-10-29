@@ -1,2 +1,5 @@
-# AppDev
-My first repository
+# **Favorite Series**
+*Hwarang*
+
+# **Movies**
+*F1 The Movie*
